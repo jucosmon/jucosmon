@@ -7,7 +7,7 @@ developer
 I am an undergrad software engineer. I am currently pursuing a Bachelor of Science in Information Technology degree at Holy Name University.
 
 * 🌍  I'm based in Tagbilaran City, Bohol
-* ✉️  You can contact me at [udtohanrj@gmail.com](mailto:udtohanrj@gmail.com)
+* ✉️  You can contact me at [rezellejuneudtohan@gmail.com](mailto:rezellejuneudtohan@gmail.com)
 * 🧠  I'm learning to possess full-stack developer skills.
 * 🤝  I'm open to collaborating on interesting web development projects and C projects.
 * ⚡  I'm 19 years old, and I've been getting serious about coding since I was 17 years old.
