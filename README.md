@@ -9,8 +9,7 @@ I am an undergrad software engineer. I am currently pursuing a Bachelor of Scien
 * 🌍  I'm based in Tagbilaran City, Bohol
 * ✉️  You can contact me at [rezellejuneudtohan@gmail.com](mailto:rezellejuneudtohan@gmail.com)
 * 🧠  I'm learning to possess full-stack developer skills.
-* 🤝  I'm open to collaborating on interesting web development projects and C projects.
-* ⚡  I'm 19 years old, and I've been getting serious about coding since I was 17 years old.
+* 🤝  I'm open to collaborating on interesting web development projects and mobile app development projects.
 
 <a href="https://www.github.com/jucosmon" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/jucosmon?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.twitter.com/jucosmon" target="_blank" rel="noreferrer"><img
