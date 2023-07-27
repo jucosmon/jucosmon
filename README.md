@@ -9,7 +9,7 @@ I am an undergrad software engineer. I am currently pursuing a Bachelor of Scien
 * 🌍  I'm based in Tagbilaran City, Bohol
 * ✉️  You can contact me at [here](mailto:udtohanrj@gmail.com)
 * 🧠  I'm learning to possess full-stack developer skills.
-* 🤝  I'm open to collaborating on interesting web development projects and mobile app development projects.
+* 🤝  I'm open to collaborating on interesting web and mobile app development projects.
 
 <a href="https://www.github.com/jucosmon" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/jucosmon?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.twitter.com/jucosmon" target="_blank" rel="noreferrer"><img
