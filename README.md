@@ -7,7 +7,7 @@ developer
 I am an undergrad software engineer. I am currently pursuing a Bachelor of Science in Information Technology degree at Holy Name University.
 
 * 🌍  I'm based in Tagbilaran City, Bohol
-* ✉️  You can contact me at [here](mailto:udtohanrj@gmail.com)
+* ✉️  You can contact me [here](mailto:udtohanrj@gmail.com)
 * 🧠  I'm learning to possess full-stack developer skills.
 * 🤝  I'm open to collaborating on interesting web and mobile app development projects.
 
