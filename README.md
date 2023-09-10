@@ -1,9 +1,6 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Rezelle June Udtohan
 ============================================================================================================================================
 
-developer
-------------------
-
 I am an undergrad software engineer. I am currently pursuing a Bachelor of Science in Information Technology degree at Holy Name University.
 
 * 🌍  I'm based in Tagbilaran City, Bohol
