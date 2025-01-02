@@ -1,9 +1,9 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Rezelle June Udtohan
 ============================================================================================================================================
 
-I am an undergrad software engineer, currently pursuing a Bachelor of Science in Information Technology degree.
+I am an aspiring full-stack developer, pursuing a Bachelor of Science in Information Technology degree.
 
-* 🧠  I'm learning to possess full-stack developer skills.
+* 🧠  I'm still learning to possess full-stack developer skills.
 * 💻  I'm open to freelance web development projects.
 * 🤝  I'm open to collaborating on interesting web and mobile app development projects.
 
