@@ -1,11 +1,11 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Rezelle June Udtohan
 ============================================================================================================================================
 
-I am an aspiring full-stack developer with a Bachelor of Science in Information Technology degree.
+I am a full-stack developer with a Bachelor of Science in Information Technology degree.
 
-* 🧠  I'm still learning to possess full-stack developer skills.
-* 💻  I'm open to freelance web development projects.
-* 🤝  I'm open to collaborating on interesting web and mobile app development projects.
+* 🧠  I develop mobile and web applications.
+* 💻  I'm open to freelance development projects (web/mobile).
+* 🤝  I'm open to collaborating on interesting app development projects.
 
 <a href="https://www.github.com/jucosmon" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/jucosmon?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.twitter.com/jucosmon" target="_blank" rel="noreferrer"><img
