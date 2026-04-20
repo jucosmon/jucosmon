@@ -1,47 +1,61 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I'm JUCOSMON
-============================================================================================================================================
+# Hi there! <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30"> I'm June Udtohan
+### Full-Stack Developer | Mobile Specialist | Data Enthusiast
 
-I am a full-stack developer with a Bachelor of Science in Information Technology degree.
+---
 
-* 🧠  I develop mobile and web applications.
-* 💻  I'm open to freelance development projects (web/mobile).
-* 🤝  I'm open to collaborating on interesting app development projects.
+### 🚀 High-Level Summary
+I build robust, scalable applications from the ground up. Whether it's a high-performance web dashboard or a cross-platform mobile app, I bridge the gap between complex backend logic and intuitive user experiences. 
 
-<a href="https://www.github.com/jucosmon" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/jucosmon?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.twitter.com/jucosmon" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/jucosmon?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/></a>
+- 💻 **Web:** Laravel (PHP) & Next.js/Vue.js (JS/TS)
+- 📱 **Mobile:** Flutter & Dart specialist
+- 🛠 **Backend & Ops:** PostgreSQL, MySQL, Supabase, & DevOps workflows
+- 📊 **Insight:** Expert in data management and analytical mining
 
-### Skills
+**I don't just write code; I build solutions that scale.**
 
+---
+
+### 🛠 My Tech Arsenal
+
+**Frontend & Mobile**
 <p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
-<a href="https://dart.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dart-colored.svg" width="36" height="36" alt="Dart" /></a>
-<a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-<a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" /></a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
-
-
-### Socials
-
-<p align="left"> 
-  <a href="https://discord.com/users/cosmoe#3461" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> 
-  <a href="https://www.twitter.com/jucosmon" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
-  <a href="https://www.dev.to/jucosmon" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" /></a>  
-  <a href="https://www.linkedin.com/in/rezelle-june-udtohan-5b304a259/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> 
-  <a href="http://www.medium.com/@udtohanrj" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a> 
-  <a href="https://www.youtube.com/channel/UCnEuSFOGH-opM5MC1JWeH4g" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </p>
 
-### Badges
+**Backend & Database**
+<p align="left">
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+</p>
 
-<b>My GitHub Stats</b>
+**DevOps & Tools**
+<p align="left">
+  <img src="https://img.shields.io/badge/DevOps-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
 
-<a href="http://www.github.com/jucosmon"><img src="https://github-readme-stats.vercel.app/api?username=jucosmon&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="jucosmon's GitHub stats" /></a>
+---
 
-<a href="http://www.github.com/jucosmon"><img src="https://github-readme-streak-stats.herokuapp.com/?user=jucosmon&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+### 📊 GitHub Activity
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jucosmon&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jucosmon&layout=compact&theme=tokyonight&hide_border=true" height="170" />
+</p>
 
-<a href="https://github.com/jucosmon" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jucosmon&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+---
+
+### 🤝 Let's Connect
+I'm currently open to **Remote Full-Time** opportunities and **Freelance Collaborations**. If you have a project that needs a developer who understands both the "how" and the "why," let's talk!
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/rezelle-june-udtohan-5b304a259/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" height="25" /></a>
+  <a href="https://discord.com/users/cosmoe#3461"><img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white" height="25" /></a>
+  <a href="http://www.medium.com/@udtohanrj"><img src="https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white" height="25" /></a>
+  <a href="mailto:udtohanrj@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" height="25" /></a>
+</p>
